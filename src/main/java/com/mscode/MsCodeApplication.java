@@ -16,6 +16,7 @@ public class MsCodeApplication
     {
         // System.setProperty("spring.devtools.restart.enabled", "false");
         SpringApplication.run(MsCodeApplication.class, args);
-        System.out.println("(♥◠‿◠)ﾉﾞ  纺织管理系统后台 启动成功   ლ(´ڡ`ლ)ﾞ  \n");
+        System.out.println("(♥◠‿◠)ﾉﾞ  " +
+                "纺织管   理系统后台 启动成功   ლ(´ڡ`ლ)ﾞ  \n");
     }
 }
